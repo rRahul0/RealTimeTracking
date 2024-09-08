@@ -15,7 +15,6 @@
     "ejs": "^3.1.10",
     "express": "^4.19.2",
     "server": "file:",
-    "socket.io": "^4.7.5",
-    "socket.io-client": "^4.7.5"
+    "socket.io": "^4.7.5"
   }
 }
